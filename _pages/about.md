@@ -19,7 +19,7 @@ redirect_from:
 
 Hello!👋👋👋
 
-I am a First-year Ph.D. student at Shanghai Jiao Tong University, under the supervision of [Prof. Qionghai Dai](https://media.au.tsinghua.edu.cn/cn/info/1009/1112.htm)(Academician of the Chinese Academy of Engineering) and [Assistant Prof. Yitong Chen](https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=236&infoid=66&flag=66).
+I am a First-year Ph.D. student at Shanghai Jiao Tong University, under the supervision of [Prof. Qionghai Dai](https://media.au.tsinghua.edu.cn/cn/info/1009/1112.htm)(Academician of the Chinese Academy of Engineering) and [Ass.Prof. Yitong Chen](https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=236&infoid=66&flag=66).
 
 My research interest includes Optical neural networks and Deep learning. 
 
