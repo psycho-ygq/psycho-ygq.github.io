@@ -38,4 +38,4 @@ I am working hard to explore the mysteries of Optical neural networks. 😄😄�
 
 # 📖 Educations
 - *2024.09 - now*, PhD Student, Computer Science and Technology, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
-- *2020.09 - 2024.06*, Bachelor, Electronic Information Engineering, School of Aerospace Science and Technology, Xidian University, *GPA: 3.9/4.0 (1/71)*.
+- *2020.09 - 2024.06*, Bachelor, Electronic Information Engineering, School of Aerospace Science and Technology, Xidian University, *(rank:1/71)*.
