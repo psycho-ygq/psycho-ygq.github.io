@@ -38,5 +38,5 @@ I am working hard to explore the mysteries of Optical neural networks. 😄😄�
 - First Prize Scholarship*(1%)*, Xidian University, *2022.10*.
 
 # 📖 Educations
-- *2024.09 - now*, PhD Student, Computer Science and Technology, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
-- *2020.09 - 2024.06*, Bachelor, Electronic Information Engineering, School of Aerospace Science and Technology, Xidian University, *(Rank:1/71)*.
+- *2024.09 - now*, Ph.D. Student, Computer Science and Technology, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
+- *2020.09 - 2024.06*, B.E., Electronic Information, School of Aerospace Science and Technology, Xidian University, *(Rank:1/71)*.
