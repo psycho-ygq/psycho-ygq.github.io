@@ -36,6 +36,7 @@ I am working hard to explore the mysteries of Optical neural networks. 😄😄�
 - National Scholarship, Ministry of Education of China, *2022.10*.
 - First Prize Scholarship*(1%)*, Xidian University, *2023.10*.
 - First Prize Scholarship*(1%)*, Xidian University, *2022.10*.
+- Outstanding Volunteer of the 14th National Games, Xi'an, China, *2021.10*.
 
 # 📖 Educations
 - *2024.09 - now*, Ph.D. Student, Computer Science and Technology, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
