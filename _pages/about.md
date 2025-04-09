@@ -42,4 +42,4 @@ I am working hard to explore the mysteries of Optical neural networks. 😄😄�
 - *2020.09 - 2024.06*, Bachelor, Electronic Information Engineering, School of Aerospace Science and Technology, Xidian University, *(Rank:1/71)*.
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=MMzOWSWv1E6cDc__WVJK2xUQpA1l1F_nXQ0ILGoQLHc&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=500&t=tt&d=mIxY2j5UCMhyHcb61rSeFnsPsRzjjBuB4sPdfTs1dMk&co=ffffff&ct=000000&cmo=3acc3a&cmn=ff5353'></script>
