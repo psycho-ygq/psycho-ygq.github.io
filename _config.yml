@@ -7,10 +7,7 @@
 
 # Site Settings
 title                    : "Guoqiang Yang"
-description              : |
-  PhD Student
-  AI for Optical
-  Optical for AI
+description              : "PhD Student <br> AI for Optical <br> Optical for AI"
 repository               : "psycho-ygq/psycho-ygq.github.io"
 google_scholar_stats_use_cdn : true
 
