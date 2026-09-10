@@ -25,11 +25,17 @@ My research interest includes Optical neural networks and Deep learning.
 
 I am working hard to explore the mysteries of Optical neural networks. 😄😄😄
 
+# 🔥 News
+
+- *2026.09.10*: ⚡ Our work was covered by [**DeepTech**](https://mp.weixin.qq.com/s/haMMjIGRJlB1OSBw8htO0g).
+- *2026.09.09*: ⚡ Our work was covered by [**Chinese Optics**](https://mp.weixin.qq.com/s/ktp1HzJY06qLLy9kEETXwg).
+- *2026.09.09*: 🎉 Our work has been published in **Nature Nanotechnology**! [Read the paper](https://www.nature.com/articles/s41565-026-02264-4).
+
 # 📝 Selected Publications
 
 1. **[How nanophotonics can drive optical computing toward practical applications](https://www.nature.com/articles/s41565-026-02264-4)**（Co-first author, first student author）<br>
    Yitong Chen<sup>†</sup>, **Guoqiang Yang**<sup>†</sup>, Tao Yan, Chunyang Tang, Jiamin Wu, and Qionghai Dai.<br>
-   *Nature Nanotechnology*, 2026.
+   **Nature Nanotechnology**, 2026.
 
 2. **[Photonic computing chips under the speed-complexity trade-off](https://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/26020065)**（Co-first author）<br>
    Xinyue Sun<sup>†</sup>, **Guoqiang Yang**<sup>†</sup>, Yitong Chen, and Guangtao Zhai.<br>
