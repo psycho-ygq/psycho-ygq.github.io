@@ -27,11 +27,11 @@ I am working hard to explore the mysteries of Optical neural networks. 😄😄�
 
 # 📝  Publications
 
-1. **[How nanophotonics can drive optical computing toward practical applications](https://www.nature.com/articles/s41565-026-02264-4)**（共同一作，学生一作）<br>
+1. **[How nanophotonics can drive optical computing toward practical applications](https://www.nature.com/articles/s41565-026-02264-4)**（Co-first author, first student author）<br>
    Yitong Chen<sup>†</sup>, **Guoqiang Yang**<sup>†</sup>, Tao Yan, Chunyang Tang, Jiamin Wu, and Qionghai Dai.<br>
    *Nature Nanotechnology*, 2026.
 
-2. **[Photonic computing chips under the speed-complexity trade-off](https://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/26020065)**（共同一作）<br>
+2. **[Photonic computing chips under the speed-complexity trade-off](https://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/26020065)**（Co-first author）<br>
    Xinyue Sun<sup>†</sup>, **Guoqiang Yang**<sup>†</sup>, Yitong Chen, and Guangtao Zhai.<br>
    *Journal of Semiconductors*, 2026.
 
