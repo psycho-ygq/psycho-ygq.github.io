@@ -25,7 +25,7 @@ My research interest includes Optical neural networks and Deep learning.
 
 I am working hard to explore the mysteries of Optical neural networks. 😄😄😄
 
-# 📝  Publications
+# 📝 Selected Publications
 
 1. **[How nanophotonics can drive optical computing toward practical applications](https://www.nature.com/articles/s41565-026-02264-4)**（Co-first author, first student author）<br>
    Yitong Chen<sup>†</sup>, **Guoqiang Yang**<sup>†</sup>, Tao Yan, Chunyang Tang, Jiamin Wu, and Qionghai Dai.<br>
