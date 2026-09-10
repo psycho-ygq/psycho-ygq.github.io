@@ -19,12 +19,21 @@ redirect_from:
 
 Hello!👋👋👋
 
-I am a First-year Ph.D. student at Shanghai Jiao Tong University, under the supervision of [Prof. Qionghai Dai](https://media.au.tsinghua.edu.cn/cn/info/1009/1112.htm)(Academician of the Chinese Academy of Engineering) and [Ass.Prof. Yitong Chen](https://icisee.sjtu.edu.cn/jiaoshiml/336.html).
+I am a Ph.D. student at Shanghai Jiao Tong University, under the supervision of [Prof. Qionghai Dai](https://media.au.tsinghua.edu.cn/cn/info/1009/1112.htm)(Academician of the Chinese Academy of Engineering) and [Ass.Prof. Yitong Chen](https://icisee.sjtu.edu.cn/jiaoshiml/336.html).
 
 My research interest includes Optical neural networks and Deep learning. 
 
 I am working hard to explore the mysteries of Optical neural networks. 😄😄😄
 
+# 📝  Publications
+
+1. **[How nanophotonics can drive optical computing toward practical applications](https://www.nature.com/articles/s41565-026-02264-4)**（共同一作，学生一作）<br>
+   Yitong Chen<sup>†</sup>, **Guoqiang Yang**<sup>†</sup>, Tao Yan, Chunyang Tang, Jiamin Wu, and Qionghai Dai.<br>
+   *Nature Nanotechnology*, 2026.
+
+2. **[Photonic computing chips under the speed-complexity trade-off](https://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/26020065)**（共同一作）<br>
+   Xinyue Sun<sup>†</sup>, **Guoqiang Yang**<sup>†</sup>, Yitong Chen, and Guangtao Zhai.<br>
+   *Journal of Semiconductors*, 2026.
 
 # 🏆 Honors and Awards
 
