@@ -27,7 +27,7 @@ I am working hard to explore the mysteries of Optical neural networks. 😄😄�
 
 # 🔥 News
 
-- *2026.09.10*: ⚡ Our work was covered by [**DeepTech**](https://mp.weixin.qq.com/s/haMMjIGRJlB1OSBw8htO0g).
+- *2026.09.10*: ⚡ Our work was covered by [**MIT Technology Review**](https://www.mittrchina.com/news/detail/16929).
 - *2026.09.09*: ⚡ Our work was covered by [**Chinese Optics**](https://mp.weixin.qq.com/s/ktp1HzJY06qLLy9kEETXwg).
 - *2026.09.09*: 🎉 Our work has been published in **Nature Nanotechnology** and featured on the [journal's official homepage](https://www.nature.com/nnano/)! [Read the paper](https://www.nature.com/articles/s41565-026-02264-4).
 
