@@ -27,6 +27,7 @@ I am working hard to explore the mysteries of Optical neural networks. 😄😄�
 
 # 🔥 News
 
+- *2026.09.13*: ⚡ Our work was covered by [**People's Daily**](https://www.peopleapp.com/column/30053131990-500007695594).
 - *2026.09.12*: ⚡ Our work was covered by [**XinHua Net**](http://sh.xinhuanet.com/20260912/6c176bdbffc64eb1a23f68d94df17c5b/c.html).
 - *2026.09.10*: ⚡ Our work was covered by [**MIT Technology Review**](https://www.mittrchina.com/news/detail/16929).
 - *2026.09.09*: ⚡ Our work was covered by [**Chinese Optics**](https://mp.weixin.qq.com/s/ktp1HzJY06qLLy9kEETXwg).
